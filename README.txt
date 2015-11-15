@@ -1,1 +1,1 @@
-to learn git commands and structure.
+just to learn git commands and structure.
