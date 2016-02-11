@@ -1,1 +1,0 @@
-learn git commands and structure.
